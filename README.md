@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Introduction
+You are invited to the Hennigh-Lemus Wedding!!!!
+Come celebrate with us on april 28th at 5:00 pm.
 
-You can use the [editor on GitHub](https://github.com/loliverhennigh/The-Hennigh-Lemus-Wedding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### How to get there?
+The best way to get there is to fly into the Cancun International Airpoint. From there it is a one hour and 30 minute drive to Tulum. There are many options for doing this such as Taxis, Buses and Rental Cars. We are getting a rental car and may be able to offer a few rides as well but we encourage you to coordinate with friends.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What to bring
+Bring your bikini and a towel!
 
-### Markdown
+### Dress Code
+No dress code however dont wear a white dress with blue flowers as this is Lizette's wedding dress
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Presents
+Don't bring blenders! We wont have very much room packing so we are not asking for any gifts for the wedding. Your being at the wedding is gift enough alone!
 
-```markdown
-Syntax highlighted code block
+### Where to stay
+There are some nice hotels in Tulum and in partiular [this](lkdsfj) area is very nice. The ceremony will be at [this location](sdf) which is around 20 minutes drive from Tulum so keep that in mind.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loliverhennigh/The-Hennigh-Lemus-Wedding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### RSVP 
+If you choose to join us in this celebration please RSVP to this email () so we can put together a guest list.If you are bringing someone let us know so we can add them to the list.
